@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Xbox Game Status/1.0.0": {
+      "XboxGameStatus/1.0.0": {
         "runtime": {
-          "Xbox Game Status.dll": {}
+          "XboxGameStatus.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Xbox Game Status/1.0.0": {
+    "XboxGameStatus/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
